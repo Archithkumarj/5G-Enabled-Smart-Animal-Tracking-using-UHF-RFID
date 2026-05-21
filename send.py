@@ -1,7 +1,7 @@
 import csv
 import socket
 
-CSV_FILE = r''#file location
+CSV_FILE = r'E:\file1.CSV'#file location
 
 # Map EPCs to their corresponding Student data
 epc_map = {
